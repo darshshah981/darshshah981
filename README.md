@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Darsh! 
-- 🌱 I’m currently learning about AI/ML, cloud data platforms, GTM in enterprise SaaS
-- 💬 Ask me about business models and growth strategies
-- 👨‍🎓 Kellogg School of Management (Full-Time 2Y MBA - Class of 2024) 
-- 📫 You can reach me at darsh.shah@kellogg.northwestern.edu
-
-<!---
-darshshah981/darshshah981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ I beleive business teams should operate with an engineering mindset — prioritize fast, scalable, data-driven work
+- ⚡ Currently: Strategic finance at Epic Games.
+- ⚡ Before: augmented India's largest short-video platform towards building a $1Bn a year advertising business from scratch 
+- 🔗 Fast-scaling companies need strategy & finance to unlock product decisions, not slow them down. _Should we build this feature?_ _Which customer segment actually makes money? Can we afford this roadmap?_ I build systems that answer those questions in hours, not weeks.
+- 🎯 Business and commercial sophistication to lead complex unit economics, while technical enough to debate API design with engineering. End state: fulfilling collaboration, fewer wrong bets, more velocity.
+- 📊 I automate relentlessly. Your product team doesn't wait three days for a scenario. When business moves at product speed, your team ships with confidence instead of speculation. OpenAI, Anthropic, Figma - all players who matter established Strategy & Finance teams early on. 
+- 💬 If you're scaling and need operating leverage without the overhead, let's talk.
