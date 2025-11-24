@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Darsh! 
-- 🛠️ I beleive business teams should operate with an engineering mindset — prioritize fast, scalable, data-driven work
-- ⚡ Currently: Strategic finance at Epic Games.
-- ⚡ Before: augmented India's largest short-video platform towards building a $1Bn a year advertising business from scratch 
-- 🔗 Fast-scaling companies need strategy & finance to unlock product decisions, not slow them down. _Should we build this feature?_ _Which customer segment actually makes money? Can we afford this roadmap?_ I build systems that answer those questions in hours, not weeks.
-- 🎯 Business and commercial sophistication to lead complex unit economics, while technical enough to debate API design with engineering. End state: fulfilling collaboration, fewer wrong bets, more velocity.
-- 📊 I automate relentlessly. Your product team doesn't wait three days for a scenario. When business moves at product speed, your team ships with confidence instead of speculation. OpenAI, Anthropic, Figma - all players who matter established Strategy & Finance teams early on. 
-- 💬 If you're scaling and need operating leverage without the overhead, let's talk.
+👋 Hi, I’m Darsh.
+🛠️ I believe business teams should operate like engineering teams - move fast (and not break things :P), build scalable systems, and make data the default.
+
+⚡ My world these days is mostly Strategic Finance at Epic Games. Before that, I helped steer India’s largest short-video app, ShareChat, towards a $1B a year ad business from zero as its first Strategic Finace hire. 
+
+Fast-scaling companies need strategy & finance to unlock product decisions, not slow them down. I design business systems that let product and leadership teams move at lightning speed thorugh close collaboration - reliably answering “Should we build this?” or “Which customer actually makes us money?” should not weeks or months. When business runs at engineering velocity, you get fewer wrong bets, faster iteration, and more confidence to ship. OpenAI, Anthropic, Figma - all ahead-of-the-curve players established Strategy & Finance teams early on.  
+
+💬 If you’re scaling and need operating leverage without the overhead - let’s talk.
